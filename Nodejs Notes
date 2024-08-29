@@ -1,0 +1,4 @@
+Postgresql Database Data Imported Query
+
+                        DatabaseName                                   Imported Data Location
+psql -U postgres -d c335544c-22d7-4cb2-ab7f-6a4918059e79-New < C:\devgrid\Database\devgrid-dev-2024_07_29_15_49_49.sql
